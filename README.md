@@ -10,10 +10,7 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - **Quick Add Buttons**: Predefined amounts (250ml, 500ml, 750ml, 1000ml) for easy logging
 - **Customizable Daily Goals**: Set your personal hydration target (default: 2000ml)
 
-### History & Analytics
-- **Weekly Progress Chart**: Visual representation of your hydration patterns
-- **Daily History**: Detailed view of water intake entries with edit/delete capabilities
-- **Historical Data**: Track your progress over time with comprehensive statistics
+
 
 ### Achievement System
 - **Gamification**: Unlock badges and achievements for consistent hydration
