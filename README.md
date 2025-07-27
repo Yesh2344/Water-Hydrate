@@ -39,7 +39,13 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - **Charts**: React Native Chart Kit for data visualization
 - **Icons**: Expo Vector Icons for consistent iconography
 
+## 📱 Screens
 
+### Home Screen (`/app/index.tsx`)
+- Main dashboard with water progress circle
+- Quick add buttons for common amounts
+- Today's statistics and recent achievements
+- Navigation to other app sections
 
 ### History Screen (`/app/history.tsx`)
 - Weekly progress chart visualization
