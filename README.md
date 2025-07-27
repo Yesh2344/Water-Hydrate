@@ -30,6 +30,14 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - **Data Management**: Export your hydration data or reset all information
 - **App Preferences**: Customize notification sounds and app behavior
 
+## 🛠️ Technology Stack
+
+- **Framework**: React Native with Expo
+- **Navigation**: Expo Router for seamless screen transitions
+- **State Management**: React hooks with AsyncStorage for local data persistence
+- **UI Components**: Custom-built components with consistent design system
+- **Charts**: React Native Chart Kit for data visualization
+- **Icons**: Expo Vector Icons for consistent iconography
 
 ## 📱 Screens
 
