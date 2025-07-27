@@ -2,13 +2,6 @@
 
 A modern, cross-platform mobile application built with React Native and Expo for tracking daily water intake and maintaining healthy hydration habits.
 
-## �� Features
-
-### Core Functionality
-- **Daily Water Tracking**: Log water intake with customizable amounts
-- **Progress Visualization**: Beautiful circular progress indicator showing daily goal completion
-- **Quick Add Buttons**: Predefined amounts (250ml, 500ml, 750ml, 1000ml) for easy logging
-- **Customizable Daily Goals**: Set your personal hydration target (default: 2000ml)
 
 ### History & Analytics
 - **Weekly Progress Chart**: Visual representation of your hydration patterns
