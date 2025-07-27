@@ -25,10 +25,7 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - **Customizable Schedule**: Enable/disable reminders and set custom times
 - **Notification Sounds**: Choose from different alert sounds for reminders
 
-### Settings & Customization
-- **Personal Goals**: Adjust daily water intake targets
-- **Data Management**: Export your hydration data or reset all information
-- **App Preferences**: Customize notification sounds and app behavior
+
 
 ## 🛠️ Technology Stack
 
