@@ -15,7 +15,10 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - **Daily History**: Detailed view of water intake entries with edit/delete capabilities
 - **Historical Data**: Track your progress over time with comprehensive statistics
 
-
+### Achievement System
+- **Gamification**: Unlock badges and achievements for consistent hydration
+- **Progress Tracking**: Monitor achievements like "First Drop", "Goal Crusher", "Week Warrior"
+- **Motivation**: Stay engaged with visual progress indicators and unlockable content
 
 ### Reminders & Notifications
 - **Smart Reminders**: Pre-configured daily reminders for optimal hydration timing
