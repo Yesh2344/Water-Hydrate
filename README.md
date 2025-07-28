@@ -53,7 +53,10 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - Historical data with edit/delete capabilities
 - Period selection (week/month view)
 
-
+### Achievements Screen (`/app/achievements.tsx`)
+- Achievement badges and progress tracking
+- Recently unlocked achievements
+- Progress indicators for ongoing challenges
 
 ### Settings Screen (`/app/settings.tsx`)
 - Daily goal configuration
