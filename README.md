@@ -64,7 +64,11 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - Data export and reset options
 - Hydration tips and app information
 
-
+### Reminders Screen (`/app/reminders.tsx`)
+- Daily reminder management
+- Enable/disable individual reminders
+- Custom reminder creation (planned feature)
+- Hydration tips and best practices
 
 ## �� Design System
 
