@@ -47,11 +47,7 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - Today's statistics and recent achievements
 - Navigation to other app sections
 
-### History Screen (`/app/history.tsx`)
-- Weekly progress chart visualization
-- Daily breakdown of water intake
-- Historical data with edit/delete capabilities
-- Period selection (week/month view)
+
 
 ### Achievements Screen (`/app/achievements.tsx`)
 - Achievement badges and progress tracking
