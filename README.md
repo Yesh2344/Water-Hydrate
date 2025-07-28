@@ -58,7 +58,11 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - Recently unlocked achievements
 - Progress indicators for ongoing challenges
 
-
+### Settings Screen (`/app/settings.tsx`)
+- Daily goal configuration
+- Notification sound preferences
+- Data export and reset options
+- Hydration tips and app information
 
 ### Reminders Screen (`/app/reminders.tsx`)
 - Daily reminder management
