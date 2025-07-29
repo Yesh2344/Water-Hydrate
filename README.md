@@ -72,14 +72,7 @@ A modern, cross-platform mobile application built with React Native and Expo for
 
 ## �� Design System
 
-### Color Palette
-- **Primary**: `#2196F3` (Vibrant Blue)
-- **Secondary**: `#1976D2` (Darker Blue)
-- **Accent**: `#64B5F6` (Light Blue)
-- **Background**: `#F8FAFE` (Light blue-white)
-- **Text**: `#263238` (Dark gray)
-- **Success**: `#4CAF50` (Green)
-- **Error**: `#F44336` (Red)
+
 
 ### Components
 - **WaterProgress**: Circular progress indicator with water icon
