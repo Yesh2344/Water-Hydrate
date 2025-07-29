@@ -81,13 +81,7 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - **Success**: `#4CAF50` (Green)
 - **Error**: `#F44336` (Red)
 
-### Components
-- **WaterProgress**: Circular progress indicator with water icon
-- **QuickAddButtons**: Predefined amount buttons for quick logging
-- **TodayStats**: Detailed breakdown of today's entries
-- **AchievementBadge**: Visual achievement indicators
-- **WeeklyChart**: Chart component for historical data
-- **Button**: Consistent button component with multiple variants
+
 
 ## 📊 Data Structure
 
