@@ -89,7 +89,7 @@ A modern, cross-platform mobile application built with React Native and Expo for
 - **WeeklyChart**: Chart component for historical data
 - **Button**: Consistent button component with multiple variants
 
-
+## 📊 Data Structure
 
 ### Water Entry
 ```typescript
