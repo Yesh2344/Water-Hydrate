@@ -101,7 +101,19 @@ interface WaterEntry {
 }
 ```
 
-
+### Achievement
+```typescript
+interface Achievement {
+  id: string;
+  title: string;
+  description: string;
+  icon: string;
+  unlocked: boolean;
+  progress?: number;
+  target?: number;
+  unlockedDate?: string;
+}
+```
 
 ### Reminder
 ```typescript
