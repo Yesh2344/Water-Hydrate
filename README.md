@@ -115,15 +115,7 @@ interface Achievement {
 }
 ```
 
-### Reminder
-```typescript
-interface Reminder {
-  id: string;
-  time: string;
-  enabled: boolean;
-  label: string;
-}
-```
+
 
 ## 🚀 Getting Started
 
