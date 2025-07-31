@@ -229,10 +229,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## �� Acknowledgments
 
-- Built with React Native and Expo
-- Icons provided by Expo Vector Icons
-- Chart components from React Native Chart Kit
-- Design inspiration from modern mobile app patterns
+
 
 ---
 
