@@ -235,6 +235,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Design inspiration from modern mobile app patterns
 
 ---
-
-**Stay hydrated, stay healthy! ��**"# Water-Hydrate" 
-"# Water-Hydrate" 
