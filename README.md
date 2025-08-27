@@ -4,7 +4,7 @@ A modern, cross-platform mobile application built with React Native and Expo for
 
 ## �� Features
 
-### Core Functionality
+
 - **Daily Water Tracking**: Log water intake with customizable amounts
 - **Progress Visualization**: Beautiful circular progress indicator showing daily goal completion
 - **Quick Add Buttons**: Predefined amounts (250ml, 500ml, 750ml, 1000ml) for easy logging
