@@ -1,5 +1,6 @@
 # Hydrate - Water Intake Tracking App
 
+A modern, cross-platform mobile application built with React Native and Expo for tracking daily water intake and maintaining healthy hydration habits.
 
 ## �� Features
 
